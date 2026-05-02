@@ -1,0 +1,6 @@
+{
+  "name": "IL2CPP Dumper Online",
+  "description": "A high-performance online tool to dump metadata and assemblies from Unity IL2CPP games. Extract symbols, structures, and method signatures directly in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
